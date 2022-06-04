@@ -17,3 +17,6 @@ Completed Challenges:
   - p0, percent, aug (inhabitants coming or leaving each year), p (population to surpass)
   - the function nb_year should return n number of entire years needed to get a population greater or equal to p.
   - aug is an integer, percent a positive or null floating number, p0 and p are positive integers (> 0)
+4. cw-0004 - "Sum of Digits/Digital Root"
+  - Digital root is the recursive sum of all the digits in a number.
+  - Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer.
