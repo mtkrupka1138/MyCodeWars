@@ -2,6 +2,9 @@
 
 This repository is for my completed Codewars challenges. I am starting by doing a first pass on 5-10 challenges before I go back to refactor.
 
+Check me out here:
+[https://www.codewars.com/users/mkrupka1138](url)
+
 
 Completed Challenges:
 
