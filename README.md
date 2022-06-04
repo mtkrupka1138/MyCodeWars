@@ -11,6 +11,6 @@ Completed Challenges:
   - You are given an array (which will have a length of at least 3, but could be very large) containing integers. The array is either entirely comprised of odd integers or entirely comprised of even integers except for a single integer N. Write a method that takes the array as an argument and returns this "outlier" N.
 3. cw-0003 - "Growth of a Population"
   - In a small town the population is 'p0' at the beginning of a year. The population regularly increases by 'percent' per year and moreover 'aug' new inhabitants per year come to live in the town. How many years does the town need to see its population greater or equal to 'p' inhabitants?
-  p0, percent, aug (inhabitants coming or leaving each year), p (population to surpass)
-  the function nb_year should return n number of entire years needed to get a population greater or equal to p.
-  aug is an integer, percent a positive or null floating number, p0 and p are positive integers (> 0)
+  - p0, percent, aug (inhabitants coming or leaving each year), p (population to surpass)
+  - the function nb_year should return n number of entire years needed to get a population greater or equal to p.
+  - aug is an integer, percent a positive or null floating number, p0 and p are positive integers (> 0)
