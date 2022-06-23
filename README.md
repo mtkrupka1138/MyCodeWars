@@ -20,3 +20,7 @@ Completed Challenges:
 4. cw-0004 - "Sum of Digits/Digital Root"
   - Digital root is the recursive sum of all the digits in a number.
   - Given n, take the sum of the digits of n. If that value has more than one digit, continue reducing in this way until a single-digit number is produced. The input will be a non-negative integer.
+5. cw-0005 - "Where my anagrams at?"
+  - What is an anagram? Well, two words are anagrams of each other if they both contain the same letters.
+  - Write a function that will find all the anagrams of a word from a list. You will be given two inputs a word and an array with words. 
+  - You should return an array of all the anagrams or an empty array if there are none.
